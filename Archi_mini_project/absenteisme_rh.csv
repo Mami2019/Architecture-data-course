@@ -1,0 +1,201 @@
+date,employe_id,departement,motif_absence,duree_jours,type_contrat
+2023-11-24,E008,Finance,Accident,4,CDI
+2023-03-13,E048,Finance,Autre,2,Intérim
+2023-08-05,E003,Finance,Maladie,4,CDI
+2023-09-16,E039,Finance,Autre,4,Intérim
+2023-11-29,E045,Production,Formation,4,CDD
+2023-10-29,E018,Finance,Congé payé,7,CDD
+2023-05-23,E010,RH,Accident,2,CDI
+2023-07-14,E007,IT,Accident,10,CDD
+2023-01-23,E047,Marketing,Autre,2,CDD
+2023-02-10,E036,IT,Autre,6,Intérim
+2023-04-09,E046,Finance,Maladie,4,CDD
+2023-02-10,E015,Finance,Formation,5,CDD
+2023-11-22,E024,RH,Accident,6,CDI
+2023-12-10,E018,Finance,Autre,3,Intérim
+2023-05-06,E011,Marketing,Formation,5,Intérim
+2023-12-19,E036,RH,Accident,1,CDI
+2023-01-17,E021,Marketing,Accident,2,CDI
+2023-10-18,E046,IT,Congé payé,8,CDD
+2023-11-26,E030,RH,Accident,3,CDI
+2023-10-15,E035,IT,Autre,7,Intérim
+2023-07-24,E024,RH,Congé payé,9,CDD
+2023-02-16,E049,Finance,Maladie,3,Intérim
+2023-03-23,E044,Marketing,Autre,2,CDD
+2023-07-15,E039,Marketing,Autre,5,Intérim
+2023-01-06,E044,Finance,Autre,5,Intérim
+2023-06-24,E008,IT,Formation,3,CDD
+2023-01-02,E047,IT,Autre,3,Intérim
+2023-02-24,E041,IT,Autre,10,CDI
+2023-03-20,E024,RH,Autre,9,CDI
+2023-11-03,E021,Marketing,Maladie,2,CDD
+2023-06-07,E016,Finance,Congé payé,10,CDI
+2023-02-13,E047,Marketing,Maladie,9,CDI
+2023-03-07,E043,Marketing,Autre,3,CDD
+2023-09-28,E039,Marketing,Congé payé,9,Intérim
+2023-12-20,E013,IT,Formation,6,CDD
+2023-09-22,E029,Finance,Congé payé,4,CDI
+2023-06-23,E002,Production,Autre,4,Intérim
+2023-04-23,E001,Finance,Maladie,4,CDI
+2023-01-17,E022,Finance,Autre,4,CDD
+2023-12-09,E032,RH,Autre,3,Intérim
+2023-10-20,E037,Marketing,Congé payé,8,CDD
+2023-04-08,E007,Finance,Formation,6,CDD
+2023-07-30,E030,Finance,Maladie,1,CDD
+2023-06-23,E007,RH,Congé payé,4,Intérim
+2023-08-18,E009,Marketing,Congé payé,5,CDD
+2023-05-08,E005,Marketing,Autre,2,CDI
+2023-11-30,E035,Finance,Maladie,4,CDI
+2023-07-28,E032,Marketing,Congé payé,7,CDI
+2023-03-26,E025,Finance,Formation,5,CDD
+2023-05-27,E028,Production,Formation,3,CDI
+2023-06-01,E014,Finance,Autre,9,CDI
+2023-06-10,E004,Finance,Autre,8,Intérim
+2023-09-29,E011,Finance,Autre,2,CDI
+2023-02-05,E039,Finance,Congé payé,7,CDI
+2023-10-19,E016,Production,Autre,1,Intérim
+2023-02-11,E027,Production,Autre,9,CDD
+2023-05-14,E014,IT,Congé payé,5,CDD
+2023-03-09,E043,IT,Formation,6,CDI
+2023-01-05,E030,Production,Autre,2,CDI
+2023-10-03,E014,Production,Accident,3,CDD
+2023-02-05,E016,IT,Accident,3,CDD
+2023-10-06,E046,IT,Autre,9,CDI
+2023-12-08,E036,IT,Maladie,3,CDD
+2023-03-01,E007,Production,Congé payé,5,CDD
+2023-11-06,E014,IT,Congé payé,5,Intérim
+2023-09-08,E017,Finance,Maladie,7,CDD
+2023-01-23,E001,IT,Congé payé,5,CDI
+2023-08-15,E036,Marketing,Autre,1,CDI
+2023-02-08,E045,RH,Autre,1,CDD
+2023-10-26,E036,RH,Formation,3,CDI
+2023-06-07,E024,Finance,Accident,4,Intérim
+2023-05-08,E043,Finance,Accident,9,CDD
+2023-11-14,E048,RH,Congé payé,3,CDI
+2023-07-31,E002,RH,Accident,7,Intérim
+2023-05-08,E018,RH,Maladie,7,CDI
+2023-08-29,E015,RH,Formation,6,CDD
+2023-04-27,E015,Finance,Congé payé,7,CDD
+2023-05-23,E005,IT,Accident,9,CDD
+2023-12-14,E035,IT,Maladie,2,CDD
+2023-04-02,E038,IT,Maladie,2,Intérim
+2023-08-11,E023,IT,Formation,10,Intérim
+2023-03-01,E025,Production,Congé payé,5,CDI
+2023-12-29,E028,Finance,Autre,9,Intérim
+2023-12-10,E013,IT,Formation,2,Intérim
+2023-06-19,E040,IT,Maladie,5,Intérim
+2023-06-08,E043,Marketing,Accident,7,Intérim
+2023-06-01,E036,RH,Congé payé,7,Intérim
+2023-07-14,E044,RH,Autre,10,CDD
+2023-07-27,E036,Finance,Accident,5,CDI
+2023-08-09,E038,Production,Accident,8,CDD
+2023-08-15,E044,RH,Autre,8,Intérim
+2023-03-28,E043,Finance,Accident,9,Intérim
+2023-11-21,E040,IT,Maladie,4,Intérim
+2023-06-08,E015,RH,Congé payé,1,CDI
+2023-05-06,E031,Production,Maladie,8,CDD
+2023-11-19,E037,RH,Formation,8,CDD
+2023-05-05,E010,Finance,Maladie,7,CDI
+2023-04-01,E045,Production,Formation,1,Intérim
+2023-05-08,E008,Marketing,Congé payé,8,Intérim
+2023-09-29,E036,Production,Accident,8,Intérim
+2023-09-16,E028,Production,Formation,3,Intérim
+2023-09-01,E029,IT,Congé payé,5,Intérim
+2023-09-06,E041,RH,Accident,8,CDI
+2023-05-27,E016,IT,Accident,6,Intérim
+2023-02-11,E009,RH,Congé payé,7,Intérim
+2023-03-20,E046,RH,Maladie,7,CDD
+2023-06-19,E035,Marketing,Formation,1,CDI
+2023-08-04,E025,Production,Maladie,10,CDD
+2023-09-02,E001,IT,Accident,7,CDD
+2023-10-03,E048,Production,Autre,4,CDD
+2023-04-23,E018,Marketing,Formation,1,CDD
+2023-06-22,E043,Marketing,Congé payé,8,CDI
+2023-11-15,E035,Finance,Formation,10,Intérim
+2023-12-06,E002,Finance,Formation,3,CDD
+2023-04-04,E004,IT,Formation,6,CDI
+2023-08-21,E021,IT,Formation,5,CDD
+2023-05-10,E006,Marketing,Maladie,9,CDI
+2023-06-29,E015,Finance,Maladie,1,CDI
+2023-04-13,E002,Production,Congé payé,4,CDI
+2023-08-31,E043,Finance,Autre,4,CDD
+2023-12-25,E017,IT,Congé payé,10,Intérim
+2023-02-28,E050,RH,Accident,2,Intérim
+2023-01-14,E020,Production,Formation,7,Intérim
+2023-04-12,E005,Production,Congé payé,2,Intérim
+2023-06-04,E044,Production,Maladie,10,CDI
+2023-06-27,E035,Marketing,Accident,2,Intérim
+2023-11-28,E022,Finance,Formation,8,CDI
+2023-08-10,E024,Marketing,Congé payé,7,CDI
+2023-09-25,E042,IT,Autre,9,CDD
+2023-08-27,E028,Production,Accident,6,CDI
+2023-02-14,E018,Marketing,Congé payé,8,Intérim
+2023-11-09,E043,Marketing,Accident,1,CDD
+2023-06-16,E012,Marketing,Congé payé,6,CDD
+2023-06-24,E018,Production,Accident,9,CDI
+2023-09-22,E013,Finance,Congé payé,7,CDD
+2023-10-12,E049,RH,Formation,8,CDD
+2023-01-09,E006,IT,Congé payé,7,Intérim
+2023-05-05,E020,Production,Accident,8,Intérim
+2023-09-29,E023,Marketing,Autre,6,CDD
+2023-12-26,E030,IT,Accident,5,CDI
+2023-03-03,E047,RH,Accident,2,Intérim
+2023-10-02,E049,RH,Congé payé,4,Intérim
+2023-09-05,E018,Production,Autre,10,CDD
+2023-02-21,E013,IT,Congé payé,6,CDI
+2023-06-04,E001,Production,Congé payé,5,CDI
+2023-01-28,E036,IT,Congé payé,8,CDI
+2023-01-07,E037,IT,Formation,8,CDD
+2023-06-24,E012,Finance,Accident,8,CDI
+2023-02-03,E026,Marketing,Maladie,10,Intérim
+2023-12-18,E004,RH,Congé payé,10,CDD
+2023-02-13,E016,Finance,Autre,7,Intérim
+2023-11-02,E040,RH,Autre,7,CDD
+2023-08-15,E020,Production,Formation,5,Intérim
+2023-11-14,E004,Production,Maladie,4,Intérim
+2023-04-19,E017,Finance,Congé payé,4,CDI
+2023-10-10,E005,RH,Maladie,7,CDD
+2023-12-19,E039,Marketing,Accident,1,CDI
+2023-05-28,E046,IT,Formation,2,Intérim
+2023-04-30,E017,Production,Congé payé,7,CDI
+2023-10-06,E015,RH,Accident,3,CDI
+2023-01-31,E011,IT,Autre,10,CDD
+2023-08-13,E008,Marketing,Accident,7,CDD
+2023-09-14,E035,Marketing,Formation,2,Intérim
+2023-01-21,E028,IT,Autre,5,CDI
+2023-02-16,E015,Production,Autre,1,Intérim
+2023-05-18,E037,Finance,Congé payé,8,Intérim
+2023-11-30,E029,IT,Congé payé,10,CDD
+2023-11-22,E032,Finance,Formation,6,CDD
+2023-06-20,E021,Finance,Congé payé,6,CDD
+2023-12-22,E032,IT,Formation,9,CDI
+2023-08-21,E006,IT,Accident,6,CDI
+2023-07-26,E033,Finance,Autre,8,CDD
+2023-01-28,E013,Production,Accident,10,CDD
+2023-11-17,E029,Finance,Congé payé,5,Intérim
+2023-03-09,E019,Marketing,Formation,2,CDI
+2023-11-19,E039,RH,Congé payé,5,Intérim
+2023-01-08,E036,Marketing,Maladie,4,CDI
+2023-08-25,E008,RH,Formation,5,Intérim
+2023-12-28,E018,Marketing,Formation,8,CDI
+2023-08-22,E036,RH,Formation,4,Intérim
+2023-09-18,E048,RH,Maladie,5,CDD
+2023-06-24,E033,IT,Maladie,5,Intérim
+2023-06-02,E038,Production,Formation,3,CDD
+2023-10-03,E031,IT,Accident,9,Intérim
+2023-07-13,E030,IT,Congé payé,4,Intérim
+2023-07-16,E015,Marketing,Maladie,6,Intérim
+2023-08-31,E046,Marketing,Formation,3,CDD
+2023-01-19,E009,Production,Autre,6,CDI
+2023-08-14,E007,Production,Formation,1,Intérim
+2023-03-15,E027,RH,Maladie,8,CDD
+2023-06-23,E040,Marketing,Maladie,6,Intérim
+2023-10-01,E025,IT,Formation,9,CDI
+2023-11-13,E005,RH,Accident,4,Intérim
+2023-02-16,E028,Finance,Maladie,8,CDI
+2023-12-22,E020,Finance,Maladie,6,CDI
+2023-05-31,E023,IT,Formation,3,CDI
+2023-09-29,E027,Production,Congé payé,3,CDI
+2023-02-10,E040,Marketing,Autre,4,CDD
+2023-10-26,E010,RH,Formation,5,CDD
+2023-05-11,E043,Finance,Formation,5,Intérim
