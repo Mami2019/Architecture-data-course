@@ -1,0 +1,26 @@
+departement,motif_absence,duree_jours
+Finance,Accident,39
+Finance,Autre,65
+Finance,Congé payé,65
+Finance,Formation,48
+Finance,Maladie,49
+IT,Accident,55
+IT,Autre,59
+IT,Congé payé,73
+IT,Formation,69
+IT,Maladie,21
+Marketing,Accident,20
+Marketing,Autre,25
+Marketing,Congé payé,66
+Marketing,Formation,22
+Marketing,Maladie,46
+Production,Accident,52
+Production,Autre,37
+Production,Congé payé,31
+Production,Formation,27
+Production,Maladie,32
+RH,Accident,38
+RH,Autre,38
+RH,Congé payé,50
+RH,Formation,39
+RH,Maladie,34
